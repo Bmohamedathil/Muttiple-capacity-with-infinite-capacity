@@ -18,8 +18,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![276936650-870787c3-7c3d-497d-a703-6ead9d61a048](https://github.com/Bmohamedathil/Muttiple-capacity-with-infinite-capacity/assets/119560261/ac34cad5-f3e3-410a-93ef-56954b0c73f4)
+![239796837-13d30585-0c48-4b29-be60-57aa39e77fbf](https://github.com/Bmohamedathil/Muttiple-capacity-with-infinite-capacity/assets/119560261/2fd662f8-93fa-471c-9f36-494ee80c2deb)
 
+![239796810-1d35f4d1-3104-44f4-8c5c-269d611eaee2](https://github.com/Bmohamedathil/Muttiple-capacity-with-infinite-capacity/assets/119560261/584b892d-a1b6-4e4a-85ea-3724e6bb25f0)
 
 ## Program
 ```
@@ -57,7 +58,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-![276936793-b6a296eb-7218-414e-ad49-ad566a9c84a4](https://github.com/Bmohamedathil/Muttiple-capacity-with-infinite-capacity/assets/119560261/e944a01a-0d33-4d9a-819f-59a7aa9cf42b)
+![239796920-d961ec39-3eb9-44d5-875b-375f5694d5df](https://github.com/Bmohamedathil/Muttiple-capacity-with-infinite-capacity/assets/119560261/4d03e5a3-3b19-4c79-aae2-7f275405cac2)
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
